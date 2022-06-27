@@ -1,18 +1,18 @@
-# Nmap 7.80 scan initiated Mon Jun 27 12:27:07 2022 as: nmap -sP -oN report.log 192.168.2.1/24
+# Nmap 7.80 scan initiated Mon Jun 27 13:02:31 2022 as: nmap -sP -oN report.log 192.168.2.1/24
 Nmap scan report for 192.168.2.101
-Host is up (0.00075s latency).
+Host is up (0.00034s latency).
 Nmap scan report for 192.168.2.201
-Host is up (0.00023s latency).
-# Nmap done at Mon Jun 27 12:27:27 2022 -- 256 IP addresses (2 hosts up) scanned in 20.29 seconds
+Host is up (0.00014s latency).
+# Nmap done at Mon Jun 27 13:02:50 2022 -- 256 IP addresses (2 hosts up) scanned in 19.63 seconds
 
 
 
 Retrieving speedtest.net configuration...
-Testing from AKNET (212.112.118.98)...
+Testing from ER-Telecom (109.195.56.129)...
 Retrieving speedtest.net server list...
 Selecting best server based on ping...
-Hosted by Mobile TeleSystems JLLC (Minsk) [3606.00 km]: 8.437 ms
+Hosted by Mobile TeleSystems JLLC (Minsk) [675.10 km]: 6.942 ms
 Testing download speed................................................................................
-Download: 174.22 Mbit/s
+Download: 203.53 Mbit/s
 Testing upload speed......................................................................................................
-Upload: 164.42 Mbit/s
+Upload: 154.76 Mbit/s
